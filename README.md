@@ -37,7 +37,7 @@ The dataset used in this project is sourced from [Amazon Fine Food Reviews](http
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/sentiment-analysis-project.git
+git clone https://github.com/iamutk4/Sentiment-Analysis.git
 ```
 
 2. Navigate to project directory
