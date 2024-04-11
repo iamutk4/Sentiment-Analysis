@@ -20,6 +20,8 @@ This project involves sentiment analysis and review classification using various
 
 5. **HuggingFace Transformer Pipeline:** Utilizes the HuggingFace Transformer pipeline for sentiment analysis on random sentences to demonstrate the model's capabilities beyond the dataset.
 
+![alt text](screenshot.png)
+
 ## Libraries and Tools Used:
 
 - `pandas`: For data manipulation and analysis
