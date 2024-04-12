@@ -47,3 +47,25 @@ git clone https://github.com/iamutk4/Sentiment-Analysis.git
 cd sentiment-analysis
 ```
 3. Open the Jupyter notebook Sentiment_Analysis.ipynb using Google Colab.
+
+## Docker:
+
+Alternatively, you can run sentiment analysis on any input sentence using dockerize image.
+
+1. Start Docker
+
+2. Pull the image from docker hub using following command in terminal:
+
+```
+docker pull iamutk4/sentiment-analysis:v1
+```
+
+3. Run the docker image:
+
+```
+docker run -it iamutk4/sentiment-analysis:v1
+```
+
+4. Enter a sentence
+
+5. Choose any model out of VADER, RoBERTa, HuggingFace
